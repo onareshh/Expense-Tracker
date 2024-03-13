@@ -1,0 +1,56 @@
+*{
+    margin:0;
+    font-family: 'Titillium Web', sans-serif;
+}
+body{
+    background-image: url(bgii.jpg);
+    background-size: cover;
+    color: #000000;
+    
+}
+.title{
+    width: 500px;
+    color:#078a31;
+    margin:3% auto;
+}
+.container {
+        margin-top: 500px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        width: 350px;
+        margin: 0 auto;
+        background-color:#6a945d;
+        padding: 3%;
+       
+    
+}
+.formLine label{
+    display: block;
+    margin-bottom: 3px;
+    border-radius: 5px;
+}
+.formLine input{
+    height: 30px;
+    width: 100%;
+    padding:0px;
+    border:2px solid #000000;
+    border-radius: 3px;
+}
+button{
+    width: 150px;
+    color:#000000; 
+    padding: 10px;
+    text-align: center;
+    font-size: 1.1em;
+    line-height: 20px;
+    background-color: #078a31;
+    border-radius: 5px;
+    margin: 14px 25%;
+    cursor: pointer;
+}
+a:link{
+    color: #078a31;
+    background-color: transparent;
+    text-decoration: none;
+
+}
